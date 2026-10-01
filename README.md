@@ -47,5 +47,10 @@ Console-based investment portfolio application.
 
 ## 📫 Connect With Me
 
-- LinkedIn: ...
-- GitHub: ...
+* 💼 LinkedIn: [linkedin.com/in/1abdulbasit/](https://linkedin.com/in/1abdulbasit/)
+* 🐙 GitHub: [github.com/abdulbasitepic-ai](https://github.com/abdulbasitepic-ai)
+
+
+
+
+           
