@@ -1,5 +1,16 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi! I'm **Abdul Basit**, a Computer Science student and aspiring **Java Backend Developer** passionate about building software, solving problems, and continuously improving my programming skills.<br><br>I'm currently focused on strengthening my knowledge of **Core Java, Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), and Spring Boot**. I enjoy exploring how things work behind the scenes, writing clean and maintainable code, and turning ideas into practical applications.<br><br>### 💻 Technical Interests<br>- Java & Object-Oriented Programming<br>- Data Structures & Algorithms<br>- Spring Boot & REST APIs<br>- MySQL & Database Management<br>- Problem Solving & Software Development<br>- Git & GitHub<br><br>I'm continuously learning, building projects, and challenging myself with new programming concepts. My goal is to become a skilled Java Backend Developer and contribute to building reliable, scalable, and impactful software.<br><br>**Learning every day. Building step by step. 🚀**<br>
+## About Me
+
+I'm a Java Developer passionate about software engineering, backend development, and building practical software solutions. I enjoy exploring how software systems work, solving programming challenges, and transforming ideas into functional applications.
+
+My journey in software development revolves around continuous learning, logical thinking, and hands-on experience. I believe in understanding concepts at their core rather than simply implementing solutions. I enjoy tackling technical challenges, experimenting with new technologies, and improving the quality of my code.
+
+## What Drives Me
+
+I'm particularly interested in backend engineering, application development, database management, and designing efficient software systems. I enjoy working with Java and Spring Boot to develop applications, building RESTful APIs, and understanding the architecture behind modern software.
+
+## My Approach
+
+I value clean code, problem-solving, consistency, and continuous improvement. Every project and technical challenge is an opportunity to learn something new, strengthen my skills
 
 
 ## 🌐 Socials:
