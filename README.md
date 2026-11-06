@@ -99,18 +99,18 @@ A Java-based portfolio management application created to practice programming fu
 - Application logic and data management
 
 ---
-
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulbasitepic-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasitepic-ai&theme=tokyonight&hide_border=true" />
+  <img width="49%"
+       src="https://github-stats-extended.vercel.app/api?username=abdulbasitepic-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
-
-## 💻 Most Used Languages
+<h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasitepic-ai&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=7&card_width=350" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdulbasitepic-ai&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=7&card_width=350"
+  />
 </p>
 
 ---
