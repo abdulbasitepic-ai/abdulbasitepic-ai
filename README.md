@@ -1,29 +1,166 @@
-## About Me
+# 👋 Hello, I'm Abdul Basit
 
-I'm a Java Developer passionate about software engineering, backend development, and building practical software solutions. I enjoy exploring how software systems work, solving programming challenges, and transforming ideas into functional applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DSA+%26+Problem+Solving;Building+Practical+Applications;Always+Learning+%26+Improving" />
+</p>
 
-My journey in software development revolves around continuous learning, logical thinking, and hands-on experience. I believe in understanding concepts at their core rather than simply implementing solutions. I enjoy tackling technical challenges, experimenting with new technologies, and improving the quality of my code.
-
-## What Drives Me
-
-I'm particularly interested in backend engineering, application development, database management, and designing efficient software systems. I enjoy working with Java and Spring Boot to develop applications, building RESTful APIs, and understanding the architecture behind modern software.
-
-## My Approach
-
-I value clean code, problem-solving, consistency, and continuous improvement. Every project and technical challenge is an opportunity to learn something new, strengthen my skills
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/1abdulbasit/) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abdulbasitepic-ai&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abdulbasitepic-ai&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdulbasitepic-ai&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend%20Development-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-DSA-70A5FD?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abdulbasitepic-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a Java developer focused on backend development, software engineering fundamentals, and building practical applications. I enjoy exploring how software works behind the scenes, solving programming challenges, and transforming ideas into functional applications.
+
+My development journey revolves around Java, object-oriented programming, data structures and algorithms, Spring Boot, and database management. I believe in strengthening fundamentals, writing maintainable code, and continuously improving through hands-on projects and consistent learning.
+
+I'm particularly interested in backend engineering, enterprise applications, RESTful services, and scalable software systems.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+</p>
+
+### 🗄️ Database & Web Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,html,css&theme=dark" />
+</p>
+
+### ⚙️ Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse&theme=dark" />
+</p>
+
+### 📚 Core Concepts & Technical Knowledge
+
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms
+- Java Collections Framework
+- Exception Handling
+- Multithreading Fundamentals
+- JDBC and Database Connectivity
+- REST API Development
+- Spring Boot and Spring MVC
+- SQL and Relational Database Concepts
+- Maven and JUnit Testing
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 LibraryDesk
+
+A web-based library management application developed using Java and Spring Boot.
+
+**Technologies:** Java, Spring Boot, Spring MVC, Thymeleaf, MySQL, Spring Data JPA
+
+**Key Features:**
+- Book management
+- Student management
+- Book issuing and returning
+- Library record management
+- Database integration
+- Web-based interface
+
+### 🏨 GrandStay
+
+A hotel reservation management application built using Spring Boot and MySQL.
+
+**Technologies:** Java, Spring Boot, Thymeleaf, MySQL, Spring Data JPA
+
+**Key Features:**
+- Room management
+- Guest management
+- Reservation handling
+- Room availability management
+- Reservation status tracking
+
+### 📈 PortfolioLite
+
+A Java-based portfolio management application created to practice programming fundamentals and application logic.
+
+**Technologies:** Java, Object-Oriented Programming, Collections
+
+**Key Features:**
+- Portfolio management
+- Stock information handling
+- Cash balance tracking
+- Application logic and data management
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulbasitepic-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasitepic-ai&theme=tokyonight&hide_border=true" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasitepic-ai&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=7&card_width=350" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Core Java
+- Data Structures and Algorithms
+- Spring Boot Development
+- RESTful API Development
+- Database Design and Optimization
+- Software Architecture
+- System Design Fundamentals
+- Problem-Solving Techniques
+
+---
+
+## 🎯 Professional Interests
+
+- Java Backend Development
+- Enterprise Application Development
+- RESTful Web Services
+- Software Engineering
+- Database Management Systems
+- System Design
+- Scalable Backend Applications
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/abdulbasitepic-ai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/1abdulbasit/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💡 My Development Philosophy
+
+> Great software is built through strong fundamentals, consistent practice, curiosity, and continuous improvement.
+
+<p align="center">
+  <b>Always Learning. Always Building. Always Improving.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=100&section=footer" />
+</p>
